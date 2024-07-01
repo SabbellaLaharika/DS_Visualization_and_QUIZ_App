@@ -26,7 +26,7 @@ public class InsertAtPosition  extends CommonCodes implements ActionListener {
                         "Images/Linear Data Structures/Linked Lists/Circular LL/Insert At position/7.png",
                         "Images/Linear Data Structures/Linked Lists/Circular LL/Insert At position/8.png"};
         cancelTask();
-        label = imageSlider(path, 100,100, 750,200);
+        label = imageSlider(path, 100,100, 800,200);
         add(label);
         algorithmLabel = algorithmSetter("Images/Linear Data Structures/Linked Lists/Circular LL/Insert At position/Algorithm.png", 150, 300, 750, 500);
         add(algorithmLabel);
