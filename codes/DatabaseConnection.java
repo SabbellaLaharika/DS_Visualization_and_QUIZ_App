@@ -3437,7 +3437,7 @@ public class DatabaseConnection {
         try{
             String url = "jdbc:mysql://localhost:3306/DataStructuresQuiz";
             String user = "root";
-            String pass = "SL$12";
+            String pass = "*****";
             Connection con = DriverManager.getConnection(url,user, pass);
             if(con != null)   System.out.println("Connection Successful");
             Statement st = con.createStatement();
