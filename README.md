@@ -4,4 +4,4 @@
 ####       - change user for driver manager if you are not using the root as a user for mysql database in your system at line 3439
 ####       - change the password to your password at line 3440
 
-## Use this link watch the output https://rebrand.ly/prg2vyx
+## Use this link to watch the output https://rebrand.ly/prg2vyx
